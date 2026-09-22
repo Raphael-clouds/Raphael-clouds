@@ -19,4 +19,5 @@ Developer Student based in Ecuador 🇪🇨, open to new challenges and learning
 ---
 
 ### CONNECT WITH ME
-![Linkedin](https://www.linkedin.com/in/devec/)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/devec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devec/" height="30" width="40" /></a>
+</p>
